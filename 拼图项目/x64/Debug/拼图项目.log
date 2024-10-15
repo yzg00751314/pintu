@@ -1,0 +1,3 @@
+﻿  拼图项目.cpp
+F:\Program Files\拼图项目\拼图项目.cpp(638,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  拼图项目.vcxproj -> F:\Program Files\拼图项目\x64\Debug\拼图项目.exe
